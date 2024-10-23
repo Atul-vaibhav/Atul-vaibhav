@@ -9,5 +9,5 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning [Front-End Development]
 
 ## 📫 How to reach me:
-- Email: [you@example.com](mailto:atulvaibhav1234@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/atul-vaibhav7)
+- Email: [Atul Vaibhav](mailto:atulvaibhav1234@gmail.com)
+- LinkedIn: [Atul Vaibhav](https://www.linkedin.com/in/atul-vaibhav7)
