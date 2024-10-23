@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hello, I'm [Atul Vaibhav](https://github.com/Atul-vaibhav/Atul-vaibhav)👋
+# Hello, I'm [Atul Vaibhav](https://github.com/Atul-vaibhav)👋
 
 Welcome to my GitHub profile!
 
