@@ -12,4 +12,4 @@ Welcome to my GitHub profile!
 - Email: [Atul Vaibhav](mailto:atulvaibhav1234@gmail.com)
 - LinkedIn: [Atul Vaibhav](https://www.linkedin.com/in/atul-vaibhav7)
 - Profile Views :
-- ![Profile Views](https://profile-counter.glitch.me/AtulVaibhav/count.svg)
+  ![Profile Views](https://profile-counter.glitch.me/AtulVaibhav/count.svg)
