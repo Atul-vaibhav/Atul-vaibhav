@@ -11,4 +11,4 @@ Welcome to my GitHub profile!
 ## 📫 How to reach me:
 - Email: [Atul Vaibhav](mailto:atulvaibhav1234@gmail.com)
 - LinkedIn: [Atul Vaibhav](https://www.linkedin.com/in/atul-vaibhav7)
-![Profile Views](https://komarev.com/ghpvc/?username=AtulVaibhav&color=blue)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Atulvaibhav&left_color=green&right_color=red)
